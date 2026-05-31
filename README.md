@@ -2,4 +2,7 @@
 A collection of my CTF challenge writeups.
 
 ## picoCTF
-- [digits.bin | Binary to Image](https://medium.com/@aadhamalsaaed/picoctf-digits-bin-binary-to-image-aa4fbb732bc5)
+| Challenge | Category | Difficulty |
+|-----------|----------|------------|
+| [digits.bin - Binary to Image](picoCTF/digits-bin.md) | Forensics | Easy |
+| [Riddle Register](picoCTF/riddle-register.md) | Forensics | Easy |
