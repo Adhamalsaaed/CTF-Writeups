@@ -1,6 +1,6 @@
 # picoCTF — Riddle Register
 
-## Challenge Link
+## CTF Link
 https://learn.cylabacademy.org/library/698?page=1&category=4
 
 ## Steps
