@@ -4,5 +4,5 @@ A collection of my CTF challenge writeups.
 ## picoCTF
 | Challenge | Category | Difficulty |
 |-----------|----------|------------|
-| [digits.bin - Binary to Image](picoCTF/picoCTF — digits.bin.md) | Forensics | Easy |
-| [Riddle Register](picoCTF/riddle-register.md) | Forensics | Easy |
+| [digits.bin - Binary to Image](picoCTF/digits-bin.md) | Forensics | Easy |
+| [Riddle Register](picoCTF/Riddle Regist.md) | Forensics | Easy |
