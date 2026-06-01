@@ -1,4 +1,4 @@
-# picoCTF — Riddle Register
+# cylabCTF — Riddle Register
 
 ## CTF Link
 https://learn.cylabacademy.org/library/698?page=1&category=4
