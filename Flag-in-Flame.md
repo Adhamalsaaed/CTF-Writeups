@@ -1,4 +1,4 @@
-# cylabCTF — Flag in Flame
+# picoCTF — Flag in Flame (Cylab)
 
 ## Challenge Link
 https://learn.cylabacademy.org/library/523?page=1&category=4
