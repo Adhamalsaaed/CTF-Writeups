@@ -1,4 +1,4 @@
-# cylabCTF — digits.bin | Binary to Image
+# picoCTF — digits.bin | Binary to Image (Cylab)
 
 ## CTF Link
 https://learn.cylabacademy.org/library/698?page=1&category=4
