@@ -20,4 +20,4 @@ A collection of my CTF challenge writeups.
 | [Glory of the Garden](Glory-of-the-Garden.md) | Forensics | Easy |
 | [Timeline 1](Timeline-1.md) | Forensics | Medium |
 
-#Its arranged form easy to hard you can basicly start learning by installing lab and try solve it , Read writeup steps if you have problem or cant solve lab  .
+# Its arranged form easy to hard you can basicly start learning by installing lab and try solve it , Read writeup steps if you have problem or cant solve lab  .
