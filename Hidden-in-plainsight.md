@@ -1,4 +1,4 @@
-# cylabCTF — Hidden in Plainsight
+# picoCTF — Hidden in Plainsight (Cylab)
 
 ## Challenge Link
 https://learn.cylabacademy.org/library/524?page=1&category=4
