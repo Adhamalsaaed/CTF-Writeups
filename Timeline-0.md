@@ -11,9 +11,11 @@ https://learn.cylabacademy.org/library/720?page=2&category=4
 3) mactime -b my_time.txt -d > final_timeline.csv
 
 4) icat partition4.img 4945
+5) 
 => NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK
 
-5) echo "NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK" | base64 -d
+6) echo "NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK" | base64 -d
+
 => 71m311n3_0u7113r_h3r_43a2e7af
 
 ## Flag
