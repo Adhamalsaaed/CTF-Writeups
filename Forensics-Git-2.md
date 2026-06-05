@@ -6,7 +6,9 @@ https://learn.cylabacademy.org/library/707?page=2&category=4
 1) gunzip disk.img.gz
 
 2) fdisk -l disk.img
+
 => Sector size (logical/physical): 512 bytes / 512 bytes
+
 => disk.img3       1140736 2097151  956416  467M 83 Linux
 
 3) mkdir -p mnt/fileimg/
@@ -21,9 +23,13 @@ https://learn.cylabacademy.org/library/707?page=2&category=4
 => fatal: your current branch 'master' does not have any commits yet
 
 7) git status
+
 => new file: logs/1.txt
+
 => new file: logs/2.txt
+
 => new file: logs/4.txt
+
 => file 3.txt not there
 
 8) git cat-file --batch-all-objects --batch-check
