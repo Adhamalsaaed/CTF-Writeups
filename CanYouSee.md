@@ -7,6 +7,7 @@ https://learn.cylabacademy.org/library/408?page=1&category=4
 unzip
 
 exiftool ukn_reality.jpg
+
 => Attribution URL: cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==
 
 echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZDhjMzgxZmR9Cg==" | base64 -d
