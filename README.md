@@ -1,31 +1,41 @@
-# CTF Writeups
-A collection of my CTF challenge writeups.
+<table>
+<tr>
+<td>
 
-## picoCTF (Cylab)
-| Challenge | Category | Difficulty |
-|-----------|----------|------------|
-| [digits.bin - Binary to Image](digits-bin.md) | Forensics | Easy |
-| [Riddle Register](Riddle-Regist.md) | Forensics | Easy |
-| [Flag in Flame](Flag-in-Flame.md) | Forensics | Easy |
-| [Hidden in plainsight](Hidden-in-plainsight.md) | Forensics | Easy |
-| [Corrupted File](Corrupted-File.md) | Forensics | Easy |
-| [DISKO 1](DISKO-1.md) | Forensics | Easy |
-| [RED](RED.md) | Forensics | Easy |
-| [Ph4nt0m 1ntrud3r](Ph4nt0m-1ntrud3r.md) | Forensics | Easy |
-| [Verify](Verify.md) | Forensics | Easy |
-| [Scan Surprise](Scan-Surprise.md) | Forensics | Easy |
-| [Secret of the Polyglot](Secret-of-the-Polyglot.md) | Forensics | Easy |
-| [CanYouSee](CanYouSee.md) | Forensics | Easy |
-| [Information](Information.md) | Forensics | Easy |
-| [Glory of the Garden](Glory-of-the-Garden.md) | Forensics | Easy |
-| [Timeline 1](Timeline-1.md) | Forensics | Medium |
-| [Timeline 0](Timeline-0.md) | Forensics | Medium |
-| [Rogue Tower](Rogue-Tower.md) | Forensics | Medium |
-| [Forensics Git 0](Forensics-Git-0.md) | Forensics | Medium |
-| [Forensics Git 1](Forensics-Git-1.md) | Forensics | Medium |
-| [Forensics Git 2](Forensics-Git-2.md) | Forensics | Medium |
-| [DISKO 2](DISKO-2.md) | Forensics | Medium |
-| [DISKO 3](DISKO-3.md) | Forensics | Medium |
-| [DISKO 4](DISKO-4.md) | Forensics | Medium |
+### 🟢 Easy
+| Challenge | Category |
+|-----------|----------|
+| [digits.bin - Binary to Image](digits-bin.md) | Forensics |
+| [Riddle Register](Riddle-Regist.md) | Forensics |
+| [Flag in Flame](Flag-in-Flame.md) | Forensics |
+| [Hidden in plainsight](Hidden-in-plainsight.md) | Forensics |
+| [Corrupted File](Corrupted-File.md) | Forensics |
+| [DISKO 1](DISKO-1.md) | Forensics |
+| [RED](RED.md) | Forensics |
+| [Ph4nt0m 1ntrud3r](Ph4nt0m-1ntrud3r.md) | Forensics |
+| [Verify](Verify.md) | Forensics |
+| [Scan Surprise](Scan-Surprise.md) | Forensics |
+| [Secret of the Polyglot](Secret-of-the-Polyglot.md) | Forensics |
+| [CanYouSee](CanYouSee.md) | Forensics |
+| [Information](Information.md) | Forensics |
+| [Glory of the Garden](Glory-of-the-Garden.md) | Forensics |
 
-## Its arranged from easy to hard you can basically start learning by installing lab and try solve it , Read writeup steps if you have problem or cant solve the lab .
+</td>
+<td>
+
+### 🟡 Medium
+| Challenge | Category |
+|-----------|----------|
+| [Timeline 1](Timeline-1.md) | Forensics |
+| [Timeline 0](Timeline-0.md) | Forensics |
+| [Rogue Tower](Rogue-Tower.md) | Forensics |
+| [Forensics Git 0](Forensics-Git-0.md) | Forensics |
+| [Forensics Git 1](Forensics-Git-1.md) | Forensics |
+| [Forensics Git 2](Forensics-Git-2.md) | Forensics |
+| [DISKO 2](DISKO-2.md) | Forensics |
+| [DISKO 3](DISKO-3.md) | Forensics |
+| [DISKO 4](DISKO-4.md) | Forensics |
+
+</td>
+</tr>
+</table>
