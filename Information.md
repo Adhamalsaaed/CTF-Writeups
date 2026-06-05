@@ -3,13 +3,15 @@
 https://learn.cylabacademy.org/library/186?page=2&category=4
 
 ## Steps
-file cat.jpg
+1) file cat.jpg
+
 => cat.jpg: JPEG image data
 
-exiftool cat.jpg
+2) exiftool cat.jpg
+
 => License: cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
 
-echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
+3) echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
 
 => picoCTF{the_m3tadata_1s_modified}
 
