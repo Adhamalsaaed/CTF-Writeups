@@ -3,23 +3,23 @@
 https://learn.cylabacademy.org/library/423?page=1&category=4
 
 ## Steps
-file flag2of2-final.pdf
+1) file flag2of2-final.pdf
 
 => flag2of2-final.pdf: PNG image data
 
-strings & exiftool flag2of2-final.pdf
+2) strings & exiftool flag2of2-final.pdf
 
 => Nothing suspicious
 
-xxd flag2of2-final.pdf | head
+3) xxd flag2of2-final.pdf | head
 
 => 00000000: 8950 4e47 0d0a 1a0a 0000 000d 4948 4452  .PNG........IHDR
 
-pngcheck flag2of2-final.pdf
+4) pngcheck flag2of2-final.pdf
 
 => flag2of2-final.pdf  additional data after IEND chunk (very important)
 
-how it is png and open like pdf
+5) how it is png and open like pdf
 
 => export file on hexeditor and search by Ctrl+F "IEND"
 
@@ -29,7 +29,7 @@ how it is png and open like pdf
 
 => he finish it and add pdf after that >> that explain why it isnt open when you change extension from .pdf to png
 
-copy the first HEXs byte before PDF and make an image with it
+6) copy the first HEXs byte before PDF and make an image with it
 
 => open image
 
