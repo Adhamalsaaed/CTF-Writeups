@@ -23,11 +23,11 @@ how it is png and open like pdf
 
 => export file on hexeditor and search by Ctrl+F "IEND"
 
-you will see "IEND<<Be%PDF"
+=> you will see "IEND<<Be%PDF"
 
-IEND usually use to finish any image thats mean there are image in pdf
+=> IEND usually use to finish any image thats mean there are image in pdf
 
-he finish it and add pdf after that >> that explain why it isnt open when you change extension from .pdf to png
+=> he finish it and add pdf after that >> that explain why it isnt open when you change extension from .pdf to png
 
 copy the first HEXs byte before PDF and make an image with it
 
