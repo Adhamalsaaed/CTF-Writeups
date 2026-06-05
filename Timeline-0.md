@@ -3,17 +3,17 @@
 https://learn.cylabacademy.org/library/720?page=2&category=4
 
 ## Steps
-gunzip partition4.img.gz
+1) gunzip partition4.img.gz
 => partition4.img
 
-fls -r -m / partition4.img > my_time.txt
+2) fls -r -m / partition4.img > my_time.txt
 
-mactime -b my_time.txt -d > final_timeline.csv
+3) mactime -b my_time.txt -d > final_timeline.csv
 
-icat partition4.img 4945
+4) icat partition4.img 4945
 => NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK
 
-echo "NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK" | base64 -d
+5) echo "NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK" | base64 -d
 => 71m311n3_0u7113r_h3r_43a2e7af
 
 ## Flag
