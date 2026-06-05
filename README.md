@@ -19,5 +19,13 @@ A collection of my CTF challenge writeups.
 | [Information](Information.md) | Forensics | Easy |
 | [Glory of the Garden](Glory-of-the-Garden.md) | Forensics | Easy |
 | [Timeline 1](Timeline-1.md) | Forensics | Medium |
+| [Timeline 0](Timeline-0.md) | Forensics | Medium |
+| [Rogue Tower](Rogue-Tower.md) | Forensics | Medium |
+| [Forensics Git 0](Forensics-Git-0.md) | Forensics | Medium |
+| [Forensics Git 1](Forensics-Git-1.md) | Forensics | Medium |
+| [Forensics Git 2](Forensics-Git-2.md) | Forensics | Medium |
+| [DISKO 2](DISKO-2.md) | Forensics | Medium |
+| [DISKO 3](DISKO-3.md) | Forensics | Medium |
+| [DISKO 4](DISKO-4.md) | Forensics | Medium |
 
-## Its arranged form easy to hard you can basicly start learning by installing lab and try solve it , Read writeup steps if you have problem or cant solve the lab  .
+## Its arranged from easy to hard you can basically start learning by installing lab and try solve it , Read writeup steps if you have problem or cant solve the lab .
